@@ -3,11 +3,12 @@
 layout: default
 ---
 
-# This is a big header
+# Priya Patel
 
-<!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
-<img src="<custom-path>/static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
+Hi! I'm Priya Patel, a student at UNC Chapel Hill studying Information Science with a minor in Data Science. On campus, I am involved in Order of the Bell Tower, Kappa Delta Sorority, and Doctors without Borders. In my free time, I joined the Club Golf Team this year, which I love being a part of.
 
-## This is a small header
-
-This is basic paragraph text.
+## Interests
+- Golf
+- Tennis
+- Traveling
+- Hiking
